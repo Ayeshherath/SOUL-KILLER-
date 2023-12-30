@@ -12,7 +12,7 @@
 <div align= "left">
 
   ### Frok SOUL KILLER Repository
-<a href="https://github.com/Ayeshherath/fork"><img src= alt="https://telegra.ph/file/82f8d65f56c7cc63d98bf.jpg" border="2" width="155" height="46" ></a>
+<a href="https://github.com/Ayeshherath/fork"> </a>
   ### Link Bot To Your Whatsapp.
   
 <a href="https://gpt-qr-code.onrender.com/zusyco"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="SCAN-QR" border="2" width="170" height="40" ></a>
