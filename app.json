@@ -1,12 +1,12 @@
 {
-    "name": "ZUSYCO-MD",
-    "description": "This is an ZUSYCO-MD whatsapp bot created by mr nima.",
+    "name": "SOUL KILLER OFC",
+    "description": "This is an SOUL KILLER whatsapp bot created by SOUL KILLER.",
     "repository": "https://github.com/DarkMakerofc/ZUSYCO-MD",
-    "logo": "https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg",
+    "logo": "https://telegra.ph/file/95f13c6ae3e34fdaaff3a.jpg",
     "keywords": [
         "nodejs",
         "Bot",
-        "WhatsApp ZUSYCO-MD Bot"
+        "WhatsApp SOUL KILLER OFC Bot"
     ],
     "buildpacks": [
         {
