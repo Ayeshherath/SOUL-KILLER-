@@ -1,5 +1,5 @@
 <div align="center" class= "main"> 
-  <img src="https://telegra.ph/file/95f13c6ae3e34fdaaff3a.jpg" width="300" height="300"/>
+  <img src="https://telegra.ph/file/08d4f7c2d16cd64846afd.jpg" width="300" height="300"/>
   <h1>SOUL KILLER OFC </h1>
 
 <a href="https://github.com/DarkMakerofc"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
