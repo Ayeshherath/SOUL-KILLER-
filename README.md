@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/08d4f7c2d16cd64846afd.jpg" width="300" height="300"/>
   <h1>SOUL KILLER OFC </h1>
 
-<a href="https://github.com/DarkMakerofc"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ayeshherath/SOUL-KILLER-"><img title="Creator" src="https://img.shields.io/badge/Creator-SOUL KILLER-red.svg?style=for-the-badge&logo=github"></a>
 <br>
 <a href="https://github.com/darkmakerofc?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/darkmakerofc?color=green&style=flat-square"></a>
 <a href="https://github.com/DarkMakerofc/ZUSYCO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/darkmakerofc/ZUSYCO-MD?color=white&style=flat-square"></a>
@@ -12,7 +12,7 @@
 <div align= "left">
 
   ### Frok SOUL KILLER Repository
-<a href="https://github.com/Ayeshherath/SOUL-KILLER-/fork"><img src= alt="SOUL KILLER" border="2" width="155" height="46" ></a>
+<a href="https://github.com/Ayeshherath/SOUL-KILLER/fork"><img src= alt="SOUL KILLER" border="2" width="155" height="46" ></a>
   ### Link Bot To Your Whatsapp.
   
 <a href="https://gpt-qr-code.onrender.com/zusyco"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="SCAN-QR" border="2" width="170" height="40" ></a>
