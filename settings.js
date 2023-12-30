@@ -10,8 +10,8 @@
 
 
 
-Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Project Name : SOUL KILLER OFC
+Creator : SOUL KILLER OFC 
 
 */
 
@@ -19,12 +19,12 @@ module.exports = {
   OWNER_NUMBER: "94775341543",
   SUDO_NUMBERS : "94741022500,94719574492",
   OWNER_NAME: "『 𝙼𝚁 𝚂𝙾𝚄𝙻 𝙺𝙸𝙻𝙻𝙴𝚁♠️ 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  BOT_NAME : "SOUL KILLER OFC",
   ZUSYCO_FILE : "ZUSYCO-QR (1)",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
-    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
-    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
+    ALIVE: 'https://telegra.ph/file/08d4f7c2d16cd64846afd.jpg',
+    WELCOME: 'https://telegra.ph/file/08d4f7c2d16cd64846afd.jpg',
+    GOODBYE: 'https://telegra.ph/file/08d4f7c2d16cd64846afd.jpg'
   },
   STOP_SEND : {
         WELCOME_MESSAGE : false,
@@ -33,10 +33,10 @@ module.exports = {
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
-  WORK_MODE : "onlygroups",
+  WORK_MODE : "public",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  CAPTION : '© SOUL KILLER OFC BOT',
+  STICKER_PACK : '[SOUL KILLER OFC ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
