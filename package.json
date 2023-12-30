@@ -1,7 +1,7 @@
 {
-  "name": "ZUSYCO-MD",
+  "name": "SOUL KILLER OFC",
   "version": "1.0.0",
-  "description": "This is whatsapp bot is created by darkmakerofc ( mrnima ) , you can get fast bot expirience from this.",
+  "description": "This is whatsapp bot is created by SOUL KILLER OFC , you can get fast bot expirience from this.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
