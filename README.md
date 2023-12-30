@@ -53,7 +53,7 @@
 
 <br><br>
 #### Join Telegram Support Group.
-<a href="https://t.me/+_IJSxrsUMD5lYTU1"><img src="https://i.ibb.co/Kj3Knpk/TG-SUPPORT-REPO-LOW-NIMA.png" alt="TG-SUPPORT-REPO-LOW-NIMA" border="2" width="145" height="46" ></a>
+<a href="https://t.me/+j2y3D3s1wbtkY2Rl"><img src="https://i.ibb.co/Kj3Knpk/TG-SUPPORT-REPO-LOW-NIMA.png" alt="TG-SUPPORT-REPO-LOW-NIMA" border="2" width="145" height="46" ></a>
 <br><br><br><br><br><br><br><br><br><br>
 
 # Author : [SOUL KILLER](https://github.com/Ayeshherath/SOUL-KILLER-)
