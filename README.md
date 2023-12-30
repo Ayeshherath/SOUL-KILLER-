@@ -46,7 +46,7 @@
 
 <br><br>
 #### Youtube Video PlayList
-<a href="https://www.youtube.com/playlist?list=PLZ2z7lRgfHwgwfNRLBKDYZkEgd34yc1xi"><img src="https://i.ibb.co/NZ9D5Tz/youtube-playlist-zusyco.jpg" alt="--NIMA" border="2" width="300" height="165" ></a>
+<a href="podda gaming yt"><img src="https://telegra.ph/file/82f8d65f56c7cc63d98bf.jpg" alt="--NIMA" border="2" width="300" height="165" ></a>
 <br>
 
 </div>
