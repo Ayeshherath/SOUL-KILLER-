@@ -17,7 +17,7 @@
 <a href="https://github.com/Ayeshherath/fork"> </a>
   ### Link Bot To Your Whatsapp.
   
-<a href="https://gpt-qr-code.onrender.com/zusyco"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="SCAN-QR" border="2" width="170" height="40" ></a>
+<a href="https://qr-hazel-alpha.vercel.app/md"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="SCAN-QR" border="2" width="170" height="40" ></a>
 
 <a href="https://replit.com/@MRNima/ZUSYCO-PAIR-CODE?v=1"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
